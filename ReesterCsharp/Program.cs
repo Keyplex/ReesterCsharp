@@ -22,6 +22,7 @@ namespace ReesterCsharp
             //helloKey.Close();
 
 
+
             ////Считаем и проверяем сохраненные в реестре значения:
             //RegistryKey currentUserKey = Registry.CurrentUser;
             //RegistryKey helloKey = currentUserKey.OpenSubKey("MyKolobovPavel");
